@@ -1,0 +1,15 @@
+{
+  "projects": {
+    "default": "presentacion-cam"
+  },
+  "targets": {
+    "presentacion-cam": {
+      "hosting": {
+        "camsoft-presentation": [
+          "camsoft-presentation"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
