@@ -1,5 +1,5 @@
 {
-  "name": "camsoft-presentation",
+  "name": "3carq-presentation",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -37,6 +37,7 @@
     "@angular/compiler-cli": "^20.1.0",
     "@types/jasmine": "~5.1.0",
     "@types/reveal.js": "^5.2.1",
+    "angular-cli-ghpages": "^2.0.3",
     "angular-eslint": "20.6.0",
     "eslint": "^9.39.0",
     "jasmine-core": "~5.8.0",

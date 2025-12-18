@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "camsoft-presentation": {
+    "3carq-presentation": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -60,10 +60,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "camsoft-presentation:build:production"
+              "buildTarget": "3carq-presentation:build:production"
             },
             "development": {
-              "buildTarget": "camsoft-presentation:build:development"
+              "buildTarget": "3carq-presentation:build:development"
             }
           },
           "defaultConfiguration": "development"
